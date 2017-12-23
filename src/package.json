@@ -1,0 +1,1 @@
+{	"name": "package",	"version":"1.0.0",	"description":"",	"main":"rnp.java",	"dependencies":{},	"devDependencies":{},	"scripts":{		"build": "javac rnp.java",		"start": "java rnp",		"test": "echo \"Error: no test specified\" && exit 1"	},	"author": "Zeyu Deng",	"license": "ISC"}
